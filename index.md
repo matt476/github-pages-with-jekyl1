@@ -1,3 +1,3 @@
-# Welcome to my blog
+# The homepage
 
-I'm glad you are here. I plan to talk about ...
+GMT Group project Homepage
